@@ -13,7 +13,10 @@ function addTask() {
 
     let item = document.createElement("li");
 
-    item.innerHTML = task + ' <button onclick="this.parentElement.remove()">Delete</button>';
+   item.innerHTML =
+'<input type="checkbox"> ' +
+task +
+' <button onclick="this.parentElement.remove()">Delete</button>';
 
     list.appendChild(item);
 
