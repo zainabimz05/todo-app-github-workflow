@@ -9,6 +9,10 @@ A simple Todo List web application created using HTML, CSS, and JavaScript.
 - Add tasks
 - Delete tasks
 
+## Future Improvements
+
+- Add task persistence
+
 ## Technologies Used
 
 - HTML
